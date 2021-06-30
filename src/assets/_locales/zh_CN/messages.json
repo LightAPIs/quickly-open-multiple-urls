@@ -1,0 +1,23 @@
+{
+  "extDes": {
+    "message": "一键快速打开多个网址"
+  },
+  "optionsTitle": {
+    "message": "选项"
+  },
+  "optionsInputPlaceholder": {
+    "message": "请输入网址，每行一个"
+  },
+  "optionsInterval": {
+    "message": "各网址间打开的间隔时间(ms): "
+  },
+  "optionsShortcuts": {
+    "message": "键盘快捷键"
+  },
+  "notifySave": {
+    "message": "自动保存"
+  },
+  "notifySaveMsg": {
+    "message": "已将网址保存至存储中。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "extDes": {
+    "message": "Quickly open multiple URLs with one click"
+  },
+  "optionsTitle": {
+    "message": "Options"
+  },
+  "optionsInputPlaceholder": {
+    "message": "Enter the URL, one per line"
+  },
+  "optionsInterval": {
+    "message": "Opened interval between each URL(ms): "
+  },
+  "optionsShortcuts": {
+    "message": "Keyboard shortcuts"
+  },
+  "notifySave": {
+    "message": "Auto save"
+  },
+  "notifySaveMsg": {
+    "message": "The URLs have been saved to storage."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "extDes": {
+    "message": "一鍵快速開啟多個網址"
+  },
+  "optionsTitle": {
+    "message": "選項"
+  },
+  "optionsInputPlaceholder": {
+    "message": "請輸入網址，每行一個"
+  },
+  "optionsInterval": {
+    "message": "各網址間打開的間隔時間(ms): "
+  },
+  "optionsShortcuts": {
+    "message": "鍵盤快速鍵"
+  },
+  "notifySave": {
+    "message": "自動儲存"
+  },
+  "notifySaveMsg": {
+    "message": "已將網址儲存至儲存空間。"
+  }
+}

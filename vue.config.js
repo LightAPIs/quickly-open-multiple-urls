@@ -55,14 +55,14 @@ module.exports = {
         drop_debugger: true,
         pure_funcs: ['console.log'],
       });
-    }
 
-    config.plugins.push(
-      new ZipWebpackPlugin({
-        path: path.resolve('archive'),
-        filename: `${packageInfo.name}_v${packageInfo.version}.zip`,
-      })
-    );
+      config.plugins.push(
+        new ZipWebpackPlugin({
+          path: path.resolve('archive'),
+          filename: `${packageInfo.name}_v${packageInfo.version}.zip`,
+        })
+      );
+    }
 
     // 关闭 webpack 的性能提示
     config.performance = {
