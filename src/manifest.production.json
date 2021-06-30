@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "Quickly open multiple URLs",
+    "description": "chrome extension",
+    "version": "1.0.0",
+    "options_page": "options.html",
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
