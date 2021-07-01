@@ -20,5 +20,6 @@
   "browser_action": {
     "default_title": "Quickly open multiple URLs"
   },
-  "permissions": ["storage"]
+  "permissions": ["storage"],
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyS5i+0XHoKI7EfYLFWdjO8dp8SsJNJ9WZfWU9Lo/m3E8Igzv9YNDizHobZ7jzO9TjOUvt6VVwlLLmdSQa0wX59l1vQaJuQgELJuVSV8UPWK/lRZ5CdV4EYF0Xp7gIMCr9xOMuddCPUMhbmwpt6cfLm+yyRhTkvTNdEr21s10AxzDY8acyQxXVLOtF6Ojeuvssxdzu/NgloKG1iT/l270YB5SkvgjkTGN/K6/3R6Y4e8i0n3uMgw+ChgNwzvzDcFnRAuH8J+RybSLGDYuFAI9xyWqpBmFOXm2zzFHaPhjmmwvnK0zIm+TrRMIO+J3iQ3L8RXOh3rXouMOlXVe+V+7+wIDAQAB"
 }
